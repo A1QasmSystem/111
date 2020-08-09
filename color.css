@@ -1,0 +1,16 @@
+body {
+        background-image: url("ad.jpg");
+        background-attachment: fixed;
+    }
+    h1 {
+        color: navy;
+        text-shadow: 3px 5px 7px blue;
+      }
+div {
+    background-image: url("ww.jpg");
+    margin-right: auto;
+    width: 700px;
+}
+footer {
+    margin-bottom: 50px;
+}
